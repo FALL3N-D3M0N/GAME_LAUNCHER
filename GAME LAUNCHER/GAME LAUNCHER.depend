@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1590587542 source:c:\users\saivi\documents\game launcher\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1590587657 source:c:\users\saivi\documents\game launcher\login.c
+	<stdio.h>
+	<string.h>
+
+1590591430 source:c:\users\saivi\documents\game launcher\launcher.c
+	<windows.h>
+
+1590591070 source:c:\users\saivi\documents\game launcher\search algo.c
+	<stdio.h>
+
+1591368569 source:c:\users\saivi\downloads\game launcher\launcher.c
+	<windows.h>
+
+1591192382 source:c:\users\saivi\downloads\game launcher\login.c
+	<stdio.h>
+	<string.h>
+
+1591192289 source:c:\users\saivi\downloads\game launcher\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1591110693 source:c:\users\saivi\downloads\game launcher\search algo.c
+
+1591445066 source:c:\users\saivi\downloads\game launcher\addir and dispg.c
+	<stdlib.h>
+	<stdio.h>
+	<dirent.h>
+
+1591527215 source:c:\users\saivi\desktop\game launcher\addir and dispg.c
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<dirent.h>
+
+1591529149 source:c:\users\saivi\desktop\game launcher\launcher.c
+	<windows.h>
+
+1591529601 source:c:\users\saivi\desktop\game launcher\login.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1591528012 source:c:\users\saivi\desktop\game launcher\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1591110693 source:c:\users\saivi\desktop\game launcher\search algo.c
+
+1591452566 source:c:\users\saivi\desktop\game launcher\exec.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dirent.h>
+
