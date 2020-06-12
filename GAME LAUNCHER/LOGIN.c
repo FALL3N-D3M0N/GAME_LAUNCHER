@@ -12,7 +12,7 @@ void login();
 void signup();
 
 
-void login() // has to show stars instead know more
+void login() // has to show stars instead (refer rohit code)
 {
     system("cls");
     header();
