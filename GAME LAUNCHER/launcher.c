@@ -27,7 +27,7 @@ void launcher()
     else if(choise=='d')
      {
          printf("Enter path:\n");
-         scanf("%",path);
+         scanf("%s",path);
          addir(path);
 
      }
