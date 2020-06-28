@@ -12,7 +12,7 @@ void login();
 void signup();
 
 
-void login() // has to show stars instead (refer rohit code)
+void login() // has to show stars instead know more
 {
     system("cls");
     header();
@@ -71,7 +71,7 @@ void signup()
     printf("\t\tSIGNUP\n");
     printf("Enter Username:");
     scanf("%s",u1.username);
-    printf("Enter Password");
+    printf("Enter Password:");
     scanf("%s",u1.password);
     fwrite(&u1,sizeof(struct users),1,fptr);
     fclose(fptr);
@@ -86,7 +86,7 @@ void signup()
 void ender()
 {
     time(&t);
-    printf("\n-------------------------------------------------------------------------------------------------\n");
+    printf("\n-----------------------------------------------------------------------------------------------------------------\n");
     printf("\n logged in as: %s\t\t%s\n",u1.username,ctime(&t));
-    printf("\n-------------------------------------------------------------------------------------------------\n");
+    printf("\n------------------------------------------------------------------------------------------------------------------\n");
 }

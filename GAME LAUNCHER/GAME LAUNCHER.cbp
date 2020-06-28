@@ -37,9 +37,6 @@
 		<Unit filename="addir and dispg.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="exec.c">
-			<Option compilerVar="CC" />
-		</Unit>
 		<Unit filename="launcher.c">
 			<Option compilerVar="CC" />
 		</Unit>

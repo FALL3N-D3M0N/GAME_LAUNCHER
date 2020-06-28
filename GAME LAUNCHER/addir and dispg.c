@@ -62,7 +62,6 @@ void search(char path[100],int k)
 
              if(!strcmp(de->d_name,exn2.exname))
                 continue;
-
         }
 
     }

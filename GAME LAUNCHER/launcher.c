@@ -17,7 +17,7 @@ void launcher()
     ender();
     choise = getchar();
     if(choise=='a')
-     system("spotify");
+     system("spotify");//will work on all pc's running windows 10 and having spotify installed
     else if(choise=='b')
      start();
     else if(choise=='c')
@@ -34,7 +34,7 @@ void launcher()
      else if(choise=='e')
      {
 
-         printf("enter name of exe file");
+         printf("enter name of exe file :\n");
          scanf("%s",exename);
          addexe(exename);
      }
