@@ -87,3 +87,24 @@
 
 1591110693 source:d:\cproj\game launcher\search algo.c
 
+1593315263 source:c:\users\saivi\game_launcher\game launcher\addir and dispg.c
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<dirent.h>
+
+1593315176 source:c:\users\saivi\game_launcher\game launcher\launcher.c
+	<windows.h>
+
+1593315354 source:c:\users\saivi\game_launcher\game launcher\login.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1591528012 source:c:\users\saivi\game_launcher\game launcher\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1591110693 source:c:\users\saivi\game_launcher\game launcher\search algo.c
+
